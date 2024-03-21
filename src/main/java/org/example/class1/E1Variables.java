@@ -14,5 +14,6 @@ public class E1Variables {
         int population=1000000000;
         long distanceFromSun=1255555555458558855L;
         System.out.println(population);
+        System.out.println("changes updating practice");
     }
 }
